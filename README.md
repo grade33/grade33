@@ -1,4 +1,3 @@
-<span style="color: red;">Красный текст</span>
 <img src="./assets/robots.gif" width="32px" align="left"/>
 <img src="./assets/robots.gif" width="32px" align="right"/>
 
@@ -9,20 +8,18 @@
 </p>
 
 
-<div align="center">
+<div>
 	<img src="./assets/border.gif"/>
   
-  
-
-	<img src="./assets/robots.gif" width="32px" align="right"/>
-  <h2>
-		⚙️ Technologies and Skills 
-	</h2>
-	<img src="./assets/robots.gif" width="32px" align="left"/>
-  
+  <h1> 
+		<img src="./assets/robots.gif" width="32px" align="left"/>
+		⚙️ Technologies and Skills
+		<img src="./assets/robots.gif" width="32px" align="right"/>
+	</h1>
+	
   <div>
-    <h3> <strong style="color: red;"> Languages, Frameworks, and Tools </strong></h3>
-    <p align="center">
+    <h3> Languages, Frameworks, and Tools </h3>
+    <p>
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
       <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
       <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
