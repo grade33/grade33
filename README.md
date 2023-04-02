@@ -45,10 +45,10 @@
       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> </a>
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=grade33&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=450&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=467&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=450&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
     </div>
   </div>
 </div>
@@ -63,16 +63,16 @@
   <h2> 💼 Projects </h2>
   <div>
     <a href="https://github.com/grade33/imo-logistic" target="_blank">
-      <img width="49%" alt="imo-logistic" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=imo-logistic&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
+      <img width="49%" alt="imo-logistic" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=imo-logistic&card_width=500&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
     </a>
     <a href="https://github.com/grade33/akabuki" target="_blank">
-      <img width="49%" alt="akabuki" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=akabuki&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
+      <img width="49%" alt="akabuki" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=akabuki&card_width=500&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
     </a>
     <a href="https://github.com/grade33/einzelwerk-landing" target="_blank">
-      <img width="49%" alt="einzelwerk-landing" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=einzelwerk-landing&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
+      <img width="49%" alt="einzelwerk-landing" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=einzelwerk-landing&card_width=500&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
     </a>
     <a href="https://github.com/grade33/grow" target="_blank">
-      <img width="49%" alt="grow" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=grow&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
+      <img width="49%" alt="grow" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=grow&card_width=500&bg_color=161b22&border_color=161b22&title_color=3fd05f&icon_color=3fd05f&text_color=b1b1b1" />
     </a>
   </div>
 </div>
