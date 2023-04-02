@@ -28,7 +28,7 @@
   
   <div>
     <h2 align="center"> ⚙️ Stack </h2>
-    <img align="right" height="533px" alt="holohram" src="./assets/hologram.gif" >
+    <img align="right" width="40%" alt="holohram" src="./assets/hologram.gif" >
     <div align="center">
       <h3> Languages, Frameworks, and Tools </h3>
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
@@ -45,10 +45,10 @@
       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> </a>
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=450&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
+      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=550&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=450&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
+      <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
     </div>
   </div>
 </div>
