@@ -10,9 +10,9 @@
 
 
 <div>
-	<img src="./assets/robots.gif" width="32px" align="left" />
-	<img src="./assets/robots.gif" width="32px" align="right" />
-	<img src="./assets/border.gif" />
+  <img src="./assets/robots.gif" width="32px" align="left" />
+  <img src="./assets/robots.gif" width="32px" align="right" />
+  <img src="./assets/border.gif" />
 	
   <div align="center">
     <h2> ⚙️Stack </h2>
@@ -41,10 +41,10 @@
 	<img src="./assets/border.gif" />
 	
   <div align="center">
-		<h2> ⚙️ Contacts </h2>
+		<h2> 🌐Contacts </h2>
 		<p>
-			<a href="#" target="_blank" rel="noreferrer"> <img src="" alt="Telegram" width="40" height="40"/> </a>
-			<a href="#" target="_blank" rel="noreferrer"> <img src="" alt="LinkedIn" width="40" height="40"/> </a>
+			<a href="https://t.me/rekoningProblems" target="_blank" rel="noreferrer"> <img src="assets/logos/telegram" alt="Telegram" width="40" height="40"/> </a>
+			<a href="https://www.linkedin.com/in/3do/" target="_blank" rel="noreferrer"> <img src="assets/logos/linkedin" alt="LinkedIn" width="40" height="40"/> </a>
 		</p>
 	</div>
 </div>
