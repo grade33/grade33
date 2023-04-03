@@ -27,7 +27,7 @@
     <h2 align="center">🚀 Tech Stack</h2>
     <img align="right" width="41%" alt="hologram" src="./assets/hologram.gif" >
     <div>
-      <div width="55%" align="center">
+      <div align="center">
         <h3>🛠️ Languages, Frameworks, and Tools</h3>
         <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
         <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
