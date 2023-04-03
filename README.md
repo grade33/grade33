@@ -41,7 +41,9 @@
       <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/> </a>
       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> </a>
       <br>
+      <br>
       <img width="55%" src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=550&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
+      <br>
       <br>
       <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
     </div>
