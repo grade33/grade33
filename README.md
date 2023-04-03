@@ -25,31 +25,32 @@
   
   <div>
     <h2 align="center">🚀 Tech Stack</h2>
-    <img align="right" width="40%" alt="hologram" src="./assets/hologram.gif" >
-    <div width="55%" align="center">
-      <h3>🛠️ Languages, Frameworks, and Tools 🛠️</h3>
-      <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
-      <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> </a>
-      <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="./assets/logos/pinia.svg" alt="Pinia" width="40" height="40"/> </a>
+    <img align="right" width="41%" alt="hologram" src="./assets/hologram.gif" >
+    <div>
+      <div width="55%" align="center">
+        <h3>🛠️ Languages, Frameworks, and Tools</h3>
+        <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
+        <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
+        <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> </a>
+        <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="./assets/logos/pinia.svg" alt="Pinia" width="40" height="40"/> </a>
+        <br>
+        <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/logos/pug.svg" alt="Pug" width="40" height="40"/> </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+        <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/> </a>
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> </a>
+      </div>
       <br>
-      <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/logos/pug.svg" alt="Pug" width="40" height="40"/> </a>
-      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-      <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/> </a>
-      <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> </a>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=550&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
       <br>
       <br>
-      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=grade33&card_width=550&hide=prs,issues&show_icons=true&theme=dracula&border_radius=15&bg_color=161b22&border_color=161b22" alt="Stats" />
-      <br>
-      <br>
-      <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
-    </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
+    <div>
   </div>
 </div>
-
 
 
 
