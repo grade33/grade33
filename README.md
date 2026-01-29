@@ -7,10 +7,11 @@
   <h4>
     🚀 Frontend developer with 3 years of commercial experience. Proficient in Vue.js, Vue-Router, Pinia, and other key technologies of modern frontend development. I've handled tasks related to API integration, creating interactive interfaces, and optimizing user experience. I guarantee high performance and responsiveness of web applications. I have experience working in a team and can take a project from concept to launch. 🌐
   </h4>
-
+<!--
   <h3>👀 Profile Views</h3>
   <img src="https://profile-counter.glitch.me/grade33/count.svg" />
 </div>
+-->
 
 <div align="center">
   <h3 align="center">📧 Contact Me</h3>
