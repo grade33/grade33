@@ -15,7 +15,7 @@
 
 <div align="center">
   <h3 align="center">📧 Contact Me</h3>
-  <a href="https://t.me/rekoningProblems" target="_blank" rel="noreferrer"> <img src="assets/logos/telegram.svg" alt="Telegram" width="40" height="40"/> </a>
+  <a href="https://t.me/b4lyan" target="_blank" rel="noreferrer"> <img src="assets/logos/telegram.svg" alt="Telegram" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/3do/" target="_blank" rel="noreferrer"> <img src="assets/logos/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a>
 </div>
 
