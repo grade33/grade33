@@ -3,7 +3,7 @@
 <img src="./assets/border.gif" width="100%" />
 
 <div align="center">
-  <img alt="👋 Hello! I'm Edgar, and welcome to my GitHub profile!" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=32&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=👋+Hello!+I'm+Edgar%2C+and+welcome+to+my+GitHub+profile!"/>
+  <img alt="👋 Hello! I'm Edgar, and welcome to my GitHub profile!" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=32&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Edgar%2C+and+welcome+to+my+GitHub+profile!"/>
   <h4>
     🚀 Frontend developer with 3 years of commercial experience. Proficient in Vue.js, Vue-Router, Pinia, and other key technologies of modern frontend development. I've handled tasks related to API integration, creating interactive interfaces, and optimizing user experience. I guarantee high performance and responsiveness of web applications. I have experience working in a team and can take a project from concept to launch. 🌐
   </h4>
