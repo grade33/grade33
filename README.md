@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Senior Frontend Developer | UI & Markup Specialist" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&duration=2000&pause=4000&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Senior+Frontend+Developer+%7C+UI+%26+Markup+Specialist" />
+  <img alt="Senior Frontend Developer | UI & Markup Specialist" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&duration=2000&pause=6000&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Senior+Frontend+Developer+%7C+UI+%26+Markup+Specialist" />
 </div>
 
 
