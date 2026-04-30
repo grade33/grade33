@@ -4,7 +4,7 @@
 
 
 <h1>👋 Hi, I'm Edgar</h1>
-<h3>Senior Markup Developer / UI-focused Frontend Developer</h3>
+<h3>Senior Frontend Developer | UI & Markup Specialist</h3>
 <p>
   6+ years of commercial experience building stable, responsive, and maintainable interfaces. <br/>
   I specialize in building stable, responsive, and maintainable interfaces using HTML, SCSS, semantic markup, design-to-code implementation, UI refactoring, and legacy product support.
