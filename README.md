@@ -1,10 +1,9 @@
 <div align="center">
-  <img alt="Senior Markup Developer / UI-focused Frontend Developer" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Senior+Markup+Developer;UI-focused+Frontend+Developer;Production+UI+and+design-to-code" />
+  <img alt="Senior Frontend Developer | UI & Markup Specialist" width="100%" src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&duration=2000&pause=4000&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Senior+Frontend+Developer+%7C+UI+%26+Markup+Specialist" />
 </div>
 
 
 <h1>👋 Hi, I'm Edgar</h1>
-<h3>Senior Frontend Developer | UI & Markup Specialist</h3>
 <p>
   6+ years of commercial experience building stable, responsive, and maintainable interfaces. <br/>
   I specialize in building stable, responsive, and maintainable interfaces using HTML, SCSS, semantic markup, design-to-code implementation, UI refactoring, and legacy product support.
