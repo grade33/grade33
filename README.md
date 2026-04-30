@@ -6,12 +6,11 @@
 <h1>👋 Hi, I'm Edgar</h1>
 <h3>Senior Markup Developer / UI-focused Frontend Developer</h3>
 <p>
-  I build clean, responsive and production-ready interfaces from Figma layouts to maintainable frontend code.
-  My focus is semantic HTML, scalable SCSS, accurate UI implementation and stable layouts for real products.
+  6+ years of commercial experience building stable, responsive, and maintainable interfaces. <br/>
+  I specialize in building stable, responsive, and maintainable interfaces using HTML, SCSS, semantic markup, design-to-code implementation, UI refactoring, and legacy product support.
 </p>
 <p>
-  I work with frontend teams on landing pages, multi-page websites, Vue.js and Angular interfaces,
-  template updates, legacy UI improvements, code review and production support.
+  I work both on projects from scratch and within existing codebases. I also handle UI-focused frontend tasks with JavaScript, TypeScript, Vue.js, and Angular, including component updates, client-side logic, and interface behavior improvements.
 </p>
 
 <h3>💬 Contact Me</h3>
