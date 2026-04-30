@@ -15,19 +15,19 @@
 </p>
 
 <h3>💬 Contact Me</h3>
-<a href="https://www.linkedin.com/in/3do/">
+<a href="https://www.linkedin.com/in/3do/" target="_blank">
   <img height="58" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&theme=brand&size=58" alt="LinkedIn: 3do" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/3dgar">
+<a href="https://www.upwork.com/freelancers/3dgar" target="_blank">
   <img height="58" src="https://www.readmecodegen.com/api/social-icon?name=upwork&theme=brand&size=58" alt="Upwork: 3dgar" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/b4lyan">
+<a href="https://t.me/b4lyan" target="_blank">
   <img height="58" src="https://www.readmecodegen.com/api/social-icon?name=telegram&theme=brand&size=58" alt="Telegram: @b4lyan" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/3ddo">
+<a href="https://discord.com/users/3ddo" target="_blank">
   <img height="58" src="https://www.readmecodegen.com/api/social-icon?name=discord&theme=brand&size=58" alt="Discord: 3ddo" />
 </a>
 
@@ -75,16 +75,16 @@
 <img src="./assets/border.gif" width="100%" />
 
 <h2 align="center">Featured Portfolio Repositories</h2>
-<a href="https://github.com/grade33/imo-logistic">
+<a href="https://github.com/grade33/imo-logistic" target="_blank">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=imo-logistic&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: imo-logistic" />
 </a>
-<a href="https://github.com/grade33/akabuki">
+<a href="https://github.com/grade33/akabuki" target="_blank">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=akabuki&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: akabuki" />
 </a>
-<a href="https://github.com/grade33/einzelwerk-landing">
+<a href="https://github.com/grade33/einzelwerk-landing" target="_blank">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=einzelwerk-landing&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: einzelwerk-landing" />
 </a>
-<a href="https://github.com/grade33/grow">
+<a href="https://github.com/grade33/grow" target="_blank">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=grow&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: grow" />
 </a>
 
