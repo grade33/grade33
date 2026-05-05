@@ -73,18 +73,3 @@
 <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
 
 <img src="./assets/border.gif" width="100%" />
-
-<h2 align="center">Featured Portfolio Repositories</h2>
-<a href="https://github.com/grade33/imo-logistic" target="_blank">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=imo-logistic&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: imo-logistic" />
-</a>
-<a href="https://github.com/grade33/akabuki" target="_blank">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=akabuki&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: akabuki" />
-</a>
-<a href="https://github.com/grade33/einzelwerk-landing" target="_blank">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=einzelwerk-landing&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: einzelwerk-landing" />
-</a>
-<a href="https://github.com/grade33/grow" target="_blank">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=grade33&repo=grow&theme=tokyonight&hide_border=false&border_color=334155&border_radius=8&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9&description_lines_count=2" alt="Pinned repository: grow" />
-</a>
-
