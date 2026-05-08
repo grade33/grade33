@@ -70,6 +70,6 @@
   <img height="48" src="https://skillicons.dev/icons?i=babel&theme=dark" alt="Babel" />
 </p>
 <br />
-<img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grade33&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
+<img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3dooo&card_width=550&layout=compact&langs_count=9&theme=dracula&title_color=ffffff&text_color=fff&border_radius=15&bg_color=161b22&border_color=161b22" alt="Most used languages" />
 
 <img src="./assets/border.gif" width="100%" />
